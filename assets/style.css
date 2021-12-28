@@ -9,6 +9,10 @@
     scroll-behavior: smooth;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
 /* Links Each state */
 a:visited {
     text-decoration: none;
@@ -77,6 +81,19 @@ a:visited {
     left: 310px;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 4px;
+}
+
+/* About */
+
+#about {
+  text-align: center;
+  margin: 2rem 0 2rem 0 ;
+}
+
+#about-content {
+  width: 95%;
+  padding-left: 3rem;
+  margin-top: 1rem;
 }
 
 /* Footer */
