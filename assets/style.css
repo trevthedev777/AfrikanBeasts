@@ -9,6 +9,25 @@
     scroll-behavior: smooth;
 }
 
+/* Links Each state */
+a:visited {
+    text-decoration: none;
+    color: #ff220c;
+  }
+  a:hover {
+    text-decoration: none;
+    color: #ff220c;
+  }
+  a:focus {
+    text-decoration: none;
+    color: #ff220c;
+  }
+  a:hover,
+  a:active {
+    text-decoration: none;
+    color: #ff220c;
+  }
+
 /* header */
 
 #header {
@@ -59,3 +78,34 @@
     font-family: 'Roboto', sans-serif;
     letter-spacing: 4px;
 }
+
+/* Footer */
+
+#main-footer {
+    height: 5rem;
+    background-color: #333;
+    width: 100%;
+    color: white;
+    border-top: 2px solid #ff220c;
+    padding-top: 1.4rem;
+  }
+  
+  #main-footer .footer-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0 1.5rem;
+  }
+  
+  #main-footer img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  #main-footer .footer-content .footer-icons a {
+    padding: 0 1rem 0 0;
+  }
+  
+  #main-footer .footer-content .footer-icons a:last-child {
+    padding: 0;
+  }
