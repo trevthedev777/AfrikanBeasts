@@ -6,3 +6,22 @@
     text-decoration: none;
 }
 
+/* header */
+
+#header {
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+#nav-menu {
+    display: flex;
+}
+
+#nav-menu li {
+    margin-right: 30px;
+}
+
+/* Hero Image and Content */
