@@ -88,6 +88,21 @@ a:visited {
     left: 310px;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 4px;
+    animation: centered-text;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes centered-text {
+  from {
+    top: 505px;
+    left: 310px;
+  }
+  to {
+    top: 250px;
+    left: 250px;
+  }
+
 }
 
 /* About */
@@ -113,6 +128,8 @@ a:visited {
   text-align: center;
   margin: 3rem 0 3rem 0;
 }
+
+/* Trainers Profile */
 
 /* Footer */
 
