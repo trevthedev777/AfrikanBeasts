@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&family=Roboto:wght@300;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    scroll-behavior: smooth;
 }
 
 /* header */
@@ -14,6 +17,13 @@
     justify-content: space-around;
     align-items: center;
     text-transform: uppercase;
+    background-color: #333;
+    border-bottom: 2px solid red;
+}
+
+#header > a {
+    font-size: 35px;
+    color: #fff;
 }
 
 #nav-menu {
@@ -24,4 +34,28 @@
     margin-right: 30px;
 }
 
+#nav-menu li a {
+    color: #fff
+}
+
 /* Hero Image and Content */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("./images/hero.jpg") no-repeat center center;
+}
+
+#hero-section {
+    position: relative;
+}
+
+#hero-section h1 {
+    text-align: center;
+    font-size: 100px;
+    position: absolute;
+    top: 505px;
+    left: 310px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 4px;
+}
