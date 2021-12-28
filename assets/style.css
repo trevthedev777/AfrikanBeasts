@@ -13,6 +13,10 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
+hr {
+  border-top: 2px solid #ff220c;
+}
+
 /* Links Each state */
 a:visited {
     text-decoration: none;
@@ -91,9 +95,20 @@ a:visited {
 }
 
 #about-content {
-  width: 95%;
-  padding-left: 3rem;
+  width: 100%;
+  padding: 0 3rem 0 3rem;
   margin-top: 1rem;
+}
+
+#about-content p {
+  line-height: 1.4;
+}
+
+/* Photos */
+
+#photos {
+  text-align: center;
+  margin: 3rem 0 3rem 0;
 }
 
 /* Footer */
