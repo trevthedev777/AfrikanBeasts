@@ -89,18 +89,20 @@ a:visited {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 4px;
     animation: centered-text;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-fill-mode: forwards;
 }
 
 @keyframes centered-text {
   from {
     top: 505px;
-    left: 310px;
+    left: 1500px;
+    color: #000;
   }
   to {
     top: 250px;
-    left: 250px;
+    left: 350px;
+    color: #ff220c;
   }
 
 }
@@ -131,6 +133,24 @@ a:visited {
 
 /* Trainers Profile */
 
+
+/* Premises */
+
+#premises h3 {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+}
+
+#operating-hours {
+  width: 40%;
+}
+
+#map {
+  width: 60%;
+}
 /* Footer */
 
 #main-footer {
