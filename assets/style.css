@@ -122,7 +122,8 @@ a:visited {
   margin: 1rem 0 1rem 0;
 }
 
-#about-content p {
+#about-content p,
+#about-functional-fitness p {
   line-height: 1.4;
 }
 
