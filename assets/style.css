@@ -142,12 +142,9 @@ a:visited {
 /* Pricing Panel */
 
 #panel {
-  border: 1px solid #ff220c;
   background-color: #fff;
   border-radius: 10px;
   padding: 15px 25px;
-  width: 100%;
-  max-width: 960px;
   display: flex;
   justify-content: center;
   text-align: center;
