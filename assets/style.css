@@ -116,14 +116,16 @@ a:visited {
 /* About */
 
 #about {
-  text-align: center;
+  text-align: right;
   margin: 2rem 0 2rem 0 ;
+  display: flex;
 }
 
 #about-content {
   width: 100%;
   padding: 0 3rem 0 3rem;
   margin: 1rem 0 1rem 0;
+  width: 33%;
 }
 
 #about-content p,
@@ -131,9 +133,22 @@ a:visited {
   line-height: 1.4;
 }
 
+#about-logo {
+  width: 33%;
+  text-align: center;
+}
+
+#about-logo img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
 #about-functional-fitness {
   padding: 0 3rem 0 3rem;
   margin: 1rem 0 1rem 0;
+  width: 33%;
+  text-align: left;
 }
 
 /* Photos */
