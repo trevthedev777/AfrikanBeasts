@@ -14,7 +14,6 @@
 
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
-  text-align: center;
 }
 
 hr {
@@ -26,6 +25,7 @@ hr {
 .custom-header {
   margin-top: 25px;
   font-size: 32px;
+  text-align: center;
 }
 
 /* Links Each state */
@@ -161,6 +161,26 @@ a:visited {
   text-align: left;
 }
 
+/* Owner Profile */
+
+#owner-profile {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+}
+
+#owner-profile-img {
+  width: 65%;
+}
+
+#owner-profile-image img {
+  width: 250px;
+  text-align: center;
+}
+
+#owner-profile-description {
+  width: 35%;
+}
 /* Photos */
 
 .photos {
