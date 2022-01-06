@@ -10,14 +10,22 @@
     font-family: dosis, sans-serif;
 }
 
+/* Utilities */
+
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
+  text-align: center;
 }
 
 hr {
   border-top: 2px solid #ff220c;
   width: 80%;
   margin: 0 auto;
+}
+
+.custom-header {
+  margin-top: 25px;
+  font-size: 32px;
 }
 
 /* Links Each state */
@@ -161,6 +169,8 @@ a:visited {
 }
 
 /* Pricing Panel */
+
+
 
 #panel {
   background-color: #fff;
