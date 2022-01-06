@@ -266,39 +266,6 @@ a:visited {
   text-transform: uppercase;
 }
 
-
-/* Premises */
-
-/* #premises h3 {
-  text-align: center;
-  background-color: burlywood;
-}
-
-.flex-container {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-#operating-hours {
-  width: 40%;
-  text-align: center;
-}
-
-#operating-hours ul li {
-  margin-bottom: 15px;
-  border-bottom: 1px solid red;
-}
-
-#operating-hours ul li:last-child {
-  margin-bottom: 0;
-}
-
-#map {
-  width: 60%;
-  background-color: brown;
-} */
-
-
 /* Contact Page */
 
 #form-wrapper {
@@ -367,6 +334,14 @@ button:hover {
   padding: 15px 20px ;
   width: 100%;
   margin-top: 15px;
+}
+
+#map {
+  position: absolute;
+  width:400px;
+  height: 450px;
+  top: 175px;
+  right: 250px;
 }
 /* Footer */
 
