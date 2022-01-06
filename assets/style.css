@@ -7,6 +7,7 @@
     list-style: none;
     text-decoration: none;
     scroll-behavior: smooth;
+    font-family: dosis, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -300,10 +301,10 @@ a:visited {
 #form-content {
   background-color: rgba(255, 255, 255, .4);
   width: 400px;
-  height: 400px;
+  height: 450px;
   text-align: center;
   text-transform: uppercase;
-  padding: 25px 15px 25px 15px;
+  padding: 15px 15px 25px 15px;
   position: absolute;
   top: 100px;
   left: 150px;
@@ -313,6 +314,8 @@ a:visited {
 #form-content h3 {
   border-bottom: 1px solid #ff220c;
   margin-bottom: 25px;
+  padding: 0 2rem;
+  font-size: 30px;
 }
 
 label, input {
@@ -342,6 +345,17 @@ button {
   margin-top: 15px;
 }
 
+button:hover {
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  background-color: #ff220c;
+  opacity: 0.9;
+  color: #fff;
+  padding: 15px 20px ;
+  width: 100%;
+  margin-top: 15px;
+}
 /* Footer */
 
 #main-footer {
