@@ -182,13 +182,12 @@ a:visited {
 
 .photos {
   text-align: center;
-  margin: 3rem 0 3rem 0;
+  margin: 3rem 0;
 }
 
 /* Pricing Panel */
 
 #panel {
-  background-color: #fff;
   border-radius: 10px;
   padding: 15px 25px;
   display: flex;
@@ -199,8 +198,8 @@ a:visited {
 }
 
 .pricing-plan {
-  border-bottom: 1px solid #e1f1ff;
-  margin-right: 75px;
+  background-color: rgba(0, 0, 0, 0.7);  
+width: 100%;
 }
 
 .pricing-plan:last-child {
@@ -213,14 +212,14 @@ a:visited {
 }
 
 .pricing-header {
-  color: #ff220c;
+  color: #fff;
   font-weight: 600;
   letter-spacing: 1px;
 }
 
 .pricing-features {
   margin: 50px 0 25px;
-  color: #ff220c;
+  color: #fff;
 }
 
 .pricing-features-item {
@@ -237,16 +236,16 @@ a:visited {
 }
 
 .pricing-price {
-  color: #ff220c; 
+  color: #fff; 
   display: block;
   font-size: 32px;
   font-weight: 700;
 }
 
 .pricing-button {
-  border: 1px solid #ff220c;
+  border: 1px solid #fff;
   border-radius: 10px;
-  color: #ff220c;
+  color: #fff;
   display: inline-block;
   padding: 15px 35px;
   text-decoration: none;
@@ -256,20 +255,26 @@ a:visited {
 
 .pricing-button:hover, .pricing-button:focus {
   background-color: #e1f1ff;
+  opacity: 0.7;
 }
 
 .pricing-button.is-featured {
-  background-color: #ff220c;
+  background-color: #fff;
   color: white;
 }
 
 .pricing-button.is-featured:hover, .pricing-button.is-featured:focus{
-  background-color: #ff220c;
+  background-color: #fff;
   color: white;
 }
 
 .block {
   display: block;
+}
+
+.form {
+  background: url("./images/AF-1.jpg") no-repeat center center;
+  background-size: cover;
 }
 
 /* Extra Information */
