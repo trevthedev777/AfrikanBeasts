@@ -164,22 +164,19 @@ a:visited {
 /* Owner Profile */
 
 #owner-profile {
-  display: flex;
-  justify-content: center;
-  width: 90%;
+  margin: 0 auto;
+  width: 100%;
+  background: url("./images/dans\ bro.jpg") no-repeat center center;
+  width: 75%;
 }
 
-#owner-profile-img {
-  width: 65%;
-}
 
-#owner-profile-image img {
-  width: 250px;
-  text-align: center;
-}
-
-#owner-profile-description {
+#owner-profile p {
   width: 35%;
+  padding: 1rem;
+  margin: 3rem 0 3rem 0;
+  background-color: #ff220c;
+  color: #fff;
 }
 /* Photos */
 
@@ -189,8 +186,6 @@ a:visited {
 }
 
 /* Pricing Panel */
-
-
 
 #panel {
   background-color: #fff;
