@@ -26,41 +26,76 @@
         </nav>
     </header>
 
-    <section id="contact">
-      <form action="POST" id="form-wrapper">
-        <div id="form-content">
-          <h3>Contact Us</h3>
-          <!-- Form Inputs -->
-          <div>
-            <label for="fname">Full Name: </label>
-            <input type="text" id="fname" name="fname" required>
+    <section id="contact-a">
+      <div class="container">
+        <h2 class="text-center text-custom">Contact Us</h2>
+        <p class="text-center">Let us know what you need and we'll contact you</p>
+        <form  action="https://formspree.io/xgendljq"
+        method="POST">
+          <div class="text-fields">
+            <input
+              type="text"
+              name="name"
+              class="text-input name-input"
+              placeholder="Name"
+            />
+            <input
+              type="text"
+              name="subject"
+              class="text-input subject-input"
+              placeholder="Subject"
+            />
+            <input
+              type="email"
+              name="_replyto"
+              class="text-input email-input"
+              placeholder="Email Address"
+              valid
+            />
+            <input
+              type="text"
+              name="phone"
+              class="text-input phone-input"
+              placeholder="Phone Number"
+            />
+            <textarea
+              class="text-input message-input"
+              name="message"
+              placeholder="Enter Message"
+            ></textarea>
           </div>
-
-          <div>
-            <label for="email">Email Address: </label>
-            <input type="email" id="email" name="email" required>
-          </div>
-
-          <div>
-            <label for="cnumber">Contact Number: </label>
-            <input type="text" id="cnumber" name="cnumber" required>
-          </div>
-
-          <button>Submit</button>
-        </div>
-      </form>
-
-      <div id="map">
-        <iframe
-        width="400"
-        height="400"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3581.139099001349!2d27.89339461502907!3d-26.159598983457695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95a03954b43adf%3A0x9c214c14f8b6912c!2s57%20Walker%20Ave%2C%20Discovery%2C%20Roodepoort%2C%201709%2C%20South%20Africa!5e0!3m2!1sen!2suk!4v1628762956245!5m2!1sen!2suk"
-          allowfullscreen 
-          loading="lazy"
-        ></iframe>
-    </div>
+          <button type="submit"class="btn-red">Submit</button>
+        </form>
+      </div>
     </section>
-   
+
+    <!-- Section B : Contact Info  -->
+    <section id="contact-b" class="bg-red">
+      <div class="container">
+        <div class="contact-info">
+          <div>
+            <i class="fas fa-envelope fa-2x"></i>
+            <h3>Email</h3>
+            <p>afrikanbeasts@gmail.com</p>
+          </div>
+          <div>
+            <i class="fas fa-phone fa-2x"></i>
+            <h3>Phone</h3>
+            <p>0823061189</p>
+          </div>
+          <div>
+            <i class="fas fa-address-card fa-2x"></i>
+            <h3>Address</h3>
+            <p>
+              57 Walker Ave, Discovery,
+            </p>
+            <p>
+               Roodepoort, 1709, South Africa
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Footer -->
     <!-- Created by myself when practicing on VS Code -->
@@ -68,8 +103,7 @@
         <div class="footer-content container">
           <p>#beastmode</p>
           <p>
-            Copyright &copy; website created by
-            <a href="https://trevorlehmann.com/" target="_blank" aria-label="This is a link to the contact Information of the site creator and his portfolio">Trevor Lehmann</a>
+            Copyright &copy; website created by Trevor Lehmann
           </p>
   
           <div class="footer-icons">
