@@ -390,7 +390,7 @@ a:active {
   
   #about {
     width: 80%;
-    height: 1200px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -407,7 +407,28 @@ a:active {
     display: none;
   }
 
-
-
-
 }
+
+@media (max-width: 500px)
+ { #contact-a .text-fields {
+    grid-template-areas:
+        "name"
+        "subject"
+        "email"
+        "phone"
+        "message";
+}
+
+#contact-b .contact-info {
+  grid-template-columns: 1fr; }
+  #contact-b .contact-info div {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #555; }
+    #contact-b .contact-info div:last-child {
+      border: none;
+      margin-bottom: 0;
+      padding-bottom: 0; }
+ }
+
+ 
