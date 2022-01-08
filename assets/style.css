@@ -420,15 +420,19 @@ a:active {
 }
 
 #contact-b .contact-info {
-  grid-template-columns: 1fr; }
-  #contact-b .contact-info div {
-    margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid #555; }
-    #contact-b .contact-info div:last-child {
-      border: none;
-      margin-bottom: 0;
-      padding-bottom: 0; }
+  grid-template-columns: 1fr; 
+}
+
+#contact-b .contact-info div {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #555; 
+} 
+
+#contact-b .contact-info div:last-child {
+  border: none;
+  margin-bottom: 0;
+  padding-bottom: 0; }
  }
 
  
