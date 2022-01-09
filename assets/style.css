@@ -97,7 +97,7 @@ a:active {
 }
 
 #hero-section h1 {
-  padding-top: 25%;
+  padding-top: 20%;
   text-align: center;
   font-size: 100px;
   font-family: 'Roboto', sans-serif;
@@ -170,19 +170,27 @@ a:active {
 /* Owner Profile */
 
 #owner-profile {
-  margin: 0 auto;
-  width: 100%;
-  background: url("./images/dans\ bro.jpg") no-repeat center center;
-  width: 75%;
+  display: flex;
+  width: 1280px;
+  justify-content: space-evenly;
+  margin: 0 auto; 
 }
 
-
-#owner-profile p {
-  width: 35%;
-  padding: 1rem;
+#owner-profile-bio {
+  
+  padding: 5rem 1rem 0 1rem;
   margin: 3rem 0 3rem 0;
   background-color: #ff220c;
   color: #fff;
+  margin: 3rem 0 3rem 0;
+}
+
+#owner-profile-img {
+  margin: 3rem 0 3rem 0;
+}
+
+#owner-profile-img img {
+  height: 300px;
 }
 
 /* Photos */
@@ -332,6 +340,22 @@ a:active {
   text-align: center;
 }
 
+#contact-b .contact-info {
+  grid-template-columns: 1fr; 
+}
+
+#contact-b .contact-info div {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #555; 
+} 
+
+#contact-b .contact-info div:last-child {
+  border: none;
+  margin-bottom: 0;
+  padding-bottom: 0; 
+}
+
 .bg-red {
   background-color: #ff220c;
   color: #fff;
@@ -425,6 +449,28 @@ a:active {
     display: none;
   }
 
+  /* Owner Profile */
+
+  #owner-profile {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  #owner-profile-bio {
+    width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-top: 3rem;
+  }
+
+  #owner-profile-img img {
+    width: 400px;
+    height: 400px;
+  }
+
 }
 
 @media (max-width: 500px) { 
@@ -488,21 +534,9 @@ a:active {
 
 }
 
-#contact-b .contact-info {
-  grid-template-columns: 1fr; 
-}
 
-#contact-b .contact-info div {
-  margin-bottom: 1rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #555; 
-} 
 
-#contact-b .contact-info div:last-child {
-  border: none;
-  margin-bottom: 0;
-  padding-bottom: 0; }
- }
+ 
 
 
 
