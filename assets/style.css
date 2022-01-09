@@ -462,6 +462,13 @@ a:active {
     font-size: small;
   }
 
+  /* About Section */
+
+  #about {
+    margin-top: 5rem;
+
+  }
+
   /* conact page */
 
    #contact-a .text-fields {
@@ -471,6 +478,14 @@ a:active {
         "email"
         "phone"
         "message";
+   }
+
+     /* Footer */
+
+ #main-footer {
+  height: 7rem;
+   }
+
 }
 
 #contact-b .contact-info {
@@ -489,11 +504,6 @@ a:active {
   padding-bottom: 0; }
  }
 
-  /* Footer */
-
- #main-footer {
-  height: 7rem;
-}
 
 
 
