@@ -409,8 +409,8 @@ a:active {
 
 }
 
-@media (max-width: 500px)
- { #contact-a .text-fields {
+@media (max-width: 500px) { 
+   #contact-a .text-fields {
     grid-template-areas:
         "name"
         "subject"
@@ -435,4 +435,13 @@ a:active {
   padding-bottom: 0; }
  }
 
- 
+  /* Footer */
+
+ #main-footer {
+  height: 7rem;
+}
+
+
+
+
+
