@@ -209,6 +209,7 @@ a:active {
   text-align: center;
   text-transform: uppercase;
   margin: 0 auto;
+  height: 100vh;
 }
 
 .pricing-plan {
@@ -347,7 +348,6 @@ a:active {
 #contact-b .contact-info div {
   margin-bottom: 1rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #555; 
 } 
 
 #contact-b .contact-info div:last-child {
@@ -401,7 +401,7 @@ a:active {
 
 /* Resposiveness  */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
 
   /* Header */
 
@@ -471,7 +471,21 @@ a:active {
     height: 400px;
   }
 
+  /* Services */
+
+  #panel {
+    padding: 15px 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+  }
+
 }
+
+/* Responsive Design for screens 500px wide and smaller  */
 
 @media (max-width: 500px) { 
 
