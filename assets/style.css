@@ -481,6 +481,13 @@ a:active {
     text-align: center;
     text-transform: uppercase;
     margin: 0 auto;
+    height: 2500px;
+  }
+
+  .pricing-plan {
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
   }
 
 }
@@ -526,7 +533,25 @@ a:active {
 
   #about {
     margin-top: 5rem;
+  }
 
+  /* Services */
+
+  #panel {
+    padding: 15px 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    height: 2500px;
+  }
+
+  .pricing-plan {
+    height: 600px;
+    width: 300px;
+    margin: 0 auto;
   }
 
   /* conact page */
