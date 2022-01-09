@@ -387,7 +387,20 @@ a:active {
 /* Resposiveness  */
 
 @media screen and (max-width: 800px) {
+
+  /* Header */
+
+  #header {
+    height: 7rem;
+  }
   
+  #header > a {
+    font-size: x-large;
+  }
+
+  #nav-menu li a {
+    font-size: 1rem;
+  }
   #about {
     width: 80%;
     height: 500px;
@@ -410,6 +423,32 @@ a:active {
 }
 
 @media (max-width: 500px) { 
+
+  /* Header */
+
+  #header {
+    height: 7rem;
+  }
+
+  #header > a {
+    font-size: large;
+    padding-left: 1rem;
+  }
+
+  #nav-menu li a {
+    font-size: small;
+  }
+
+  hr {
+    width: 75%;
+  }
+
+  #extra-information {
+    font-size: small;
+  }
+
+  /* conact page */
+
    #contact-a .text-fields {
     grid-template-areas:
         "name"
