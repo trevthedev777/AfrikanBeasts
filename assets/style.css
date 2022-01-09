@@ -436,12 +436,11 @@ a:active {
   }
 
   #header > a {
-    font-size: large;
-    padding-left: 1rem;
+    display: none;
   }
 
   #nav-menu li a {
-    font-size: small;
+    font-size: medium;
   }
 
   /* Hero Section */
