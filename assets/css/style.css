@@ -212,22 +212,17 @@ a:active {
   height: 100vh;
 }
 
-.pricing-plan {
+#pricing-plan {
   background-color: rgba(0, 0, 0, 0.7);
   width: 100%;
   border-radius: 10px;
 }
 
-.pricing-plan:last-child {
+#pricing-plan:last-child {
   border-bottom: none;
 }
 
-.pricing-img {
-  margin-bottom: 25px;
-  max-width: 100%;
-}
-
-.pricing-header {
+#pricing-header {
   color: #fff;
   font-weight: 600;
   letter-spacing: 1px;
@@ -484,7 +479,7 @@ a:active {
     height: 2500px;
   }
 
-  .pricing-plan {
+  #pricing-plan {
     height: 600px;
     width: 500px;
     margin: 0 auto;
@@ -576,7 +571,7 @@ a:active {
     height: 2500px;
   }
 
-  .pricing-plan {
+  #pricing-plan {
     height: 600px;
     width: 300px;
     margin: 0 auto;
