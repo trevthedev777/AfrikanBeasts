@@ -196,12 +196,12 @@ The live link can be found here - https://trevthedev777.github.io/AfrikanBeasts/
 ### Pricing Panel
 
 This pricing panel was created using the idea of a bootcamp video displayed by Colt Steele from Udemy called The Web Developer Bootcamp 2022 
-![Web-Developer-Bootcamp-2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21990992?start=15#overview)
+(https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21990992?start=15#overview)
 
 ### Contact Page and Footer
 
 I originally created this template in 2020 creating a protfolio website 
-![Trevor-Lehmann-portfolio](https://www.trevorlehmann.com)
+Trevor Lehmann Portfolio(https://www.trevorlehmann.com)
 
 ### Mentor
 
