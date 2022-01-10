@@ -2,15 +2,15 @@
 
 Link: <a href="https://trevthedev777.github.io/AfrikanBeasts/">Afrikan Beasts</a>
 
-Afrikan Beasts is a local community gym in the West Rand of Johannesburg, South Africa that specialises in Weightlifting and Fitness
+Afrikan Beasts is a local community gym based in the West Rand of Johannesburg, South Africa that specialises in Weightlifting and Fitness
 
-The wesbite is a basic guide to the gym and its Services avaialble but more so focuses on the visual representation of weightlifting
+The wesbite is a basic guide to the gym and the services available but more so, focuses on the visual representation of weightlifting
 
-Users can view all the services and decide if they would like to recieve contact from the gym, they can preview the services provided and view the basic fees that accompany these services
+Users can view all the services and decide if they would like to receive contact from the gym, they can preview the services provided and view the basic fees that accompany these services
 
-The site ecourages people to get more involved in person and requires an in-person attendence to fufill the comapny's requirements
+The site ecourages people to get more involved in person and requires an in-person attendence to fufill the company's requirements
 
-The target audience is aimed at anyone looking to improve their quality of life whetehr its strength, fitness, yoga or massage therapy
+The target audience is aimed at anyone looking to improve their quality of life whether its strength, fitness, yoga or massage therapy
 
 ![Mock Up](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImage.png)
 
@@ -28,7 +28,7 @@ The target audience is aimed at anyone looking to improve their quality of life 
 ## Returning Customer Goals
 - To find more content about weightlifting
 - To check pricing and times of classes
-- To review previeously viewed content
+- To review previously viewed content
 
 ## Frequent Visitor Goals
 - To communicate with likeminded people
@@ -37,7 +37,7 @@ The target audience is aimed at anyone looking to improve their quality of life 
 
 # Design 
 
-The colour pallete is chosen to work with the gyms colour themes, Red and Black(grey), The colour themes was had picked by the owner of the gym and represents the colour of the actual walls and floor of the premises, this is the corporate identity of the business
+The colour pallete is chosen to work with the gyms colour themes, Red and Black(grey), The colour themes was hand picked by the owner of the gym and represents the colour of the actual walls and floor of the premises, this is the corporate identity of the business
 
 ## Color Palette
 
@@ -65,17 +65,27 @@ Fixed on all three pages, allowing user to easily navigate between all pages wit
 
 Main image on the home page is designed to be intesive and leade the user to be entrigued but the depth of the image, a grayscaled image was used to match the overall look anf deel surrounding the theme
 
+![Hero Image](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+
 ### About section
 
 This section is created in a way to give the user a quick overview of the gaols of the programme and company, a brief description and hyperlinks to the definitions of true weightlifting and olympic weightlifting by definition as per wikipedia, the logo was inserted in between the two descriptiions of weightlifiting and functional fitness to show that the gym is the core of the programmes
+
+![About Section](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
 
 ### Photo Banners
 
 The photograhic banners are a good idea on life inside of the gym and to give an idea on what is going to be the tasks at hand. the focus of this was that the user would be able to see if thet would enjoy the enviroment of the gym and the idea of using four images was to show the simplicity of change, that it might not be too much to discourage the user from comitting and rather making them feel more inquisitive
 
+![Photo Banner 1](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+
+![Photo Banner 2](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+
 ### Owner Biography
 
 This section gives the user some first hand indtroduction to the gym owner in a 'breaking the ice' sort of engagement, the user can get to know Daniel and his gyms primary purpose to make the actal contact of the client and business an easier step going forward
+
+![Owner Biography](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
 
 ### Video
 
@@ -85,13 +95,20 @@ No Videos were used in the creation of this site as there are links to the YouTu
 
 Section is visible at the bottom part of the site on each page, this includes social media links and copyright information with a simple #beastmode which is the slogan for the gym
 
+![Footer](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+
 ### Services Page 
 
-This is a simple table which will allow the user to see the membership costs and pricing for other secondary products and services of the gym, the days these classes take place and allows the user to plan their routines to accomodate and see if they have the time to make these commitments
+This is a simple table which will allow the user to see the membership costs and pricing for other secondary products and services of the gym, the days these classes take place and allows the user to plan their routines to accomodate and see if they have the time to make these 
+commitments
+
+![Services Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
 
 ### Contact Page 
 
 User can enter the contact information to request more information from the gym owner, this is a simple call back form for those who have the patience to wait to hear from the business and it also has the contact details for the gym should they want to take tge inititaive to cntact first
+
+![Contact Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
 
 ### 404 Page
 
