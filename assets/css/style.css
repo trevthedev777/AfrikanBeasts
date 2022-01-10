@@ -92,7 +92,7 @@ a:active {
 /* Hero Image and Content */
 
 #hero-section {
-  background: url("./images/hero.jpg") no-repeat center center;
+  background: url("../images/hero.jpg") no-repeat center center;
   height: 100vh;
 }
 
@@ -521,9 +521,28 @@ a:active {
     padding-top: 400px;
   }
 
+  #hero-section p {
+    margin-bottom: 3rem;
+  }
+
   hr {
     width: 75%;
   }
+
+  /* Owner Profile */
+
+  #owner-profile-bio {
+    width: 300px;
+    margin: 0 auto;
+    padding: 1rem;
+    margin-top: 3rem;
+  }
+
+  #owner-profile-img img {
+    width: 300px;
+    height: 300px;
+  }
+
 
   #extra-information {
     font-size: small;

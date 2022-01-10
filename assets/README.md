@@ -174,6 +174,8 @@ Flexbox was used to sort these issues out and changing widths of original issues
 
 - The contact page could not align well in mobile view, the original flexbox was causing the widths of the input to overflow, the grid system was implemented for ease of the pages structure
 
+- Index owner profile section was too wide for smaller devices, a smaller breakpoint was created to allow content to fit
+
 
 ### Unfixed bugs
 
