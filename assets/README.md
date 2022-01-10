@@ -138,17 +138,6 @@ No noticable errors were found in the creation of this site due to its simplisti
 
 The site passes W3C Validator testing on [W3C Validator](https://validator.w3.org/)
 
-### Mindfullness page
-
-![Mindfulness page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mindfullness-w3c.png)
-
-### Techniques page
-
-![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/mindfullness-w3c.png)
-
-### Community page
-
-![Community](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/community-w3c.png)
  
 ## CSS
 
@@ -188,7 +177,7 @@ Flexbox was used to sort these issues out and changing widths of original issues
 
 ### Unfixed bugs
 
-- The navbar menu is too small on smaller devices and the Afrikan Beasts Text Link to direct to the home page is  hidden from 500px and smaller
+- The navbar menu is too small on smaller devices and the Afrikan Beasts Text Link to direct to the home page is  hidden from 500px and smaller, this can be fixed with JavaScript or even frameworks like Bootstrap to create a Hamburger Icon
 
 ### Deployment
 
@@ -208,6 +197,18 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here - https://trevthedev777.github.io/AfrikanBeasts/index.html
 
 ## Credits
+
+### Pricing Panel
+
+This pricing panel was created using the idea of a bootcamp video displayed by Colt Steele from Udemy called The Web Developer Bootcamp 2022 
+![Web-Developer-Bootcamp-2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21990992?start=15#overview)
+
+### Contact Page and Footer
+
+I originally created this template in 2020 creating a protfolio website 
+![Trevor-Lehmann-portfolio](https://www.trevorlehmann.com)
+
+### Mentor
 
 My Mentor Daisy Mc Girr was the guidance for me through my project, a big shout out to her for all of her help
 
