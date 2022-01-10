@@ -179,7 +179,7 @@ Flexbox was used to sort these issues out and changing widths of original issues
 
 ### Unfixed bugs
 
-- The navbar menu is too small on smaller devices and the Afrikan Beasts Text Link to direct to the home page is  hidden from 500px and smaller, this can be fixed with JavaScript or even frameworks like Bootstrap to create a Hamburger Icon
+- The navbar menu is too small on smaller devices and the Afrikan Beasts Text Link to direct to the home page is  hidden from 500px and smaller, this can be fixed with JavaScript or even frameworks like Bootstrap to create a Hamburger Icon so that the logo can remain and the navigations can be hidden
 
 ### Deployment
 

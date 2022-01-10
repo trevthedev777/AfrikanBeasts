@@ -513,16 +513,21 @@ a:active {
   /* Hero Section */
 
   #hero-section {
-    height: 900px;
+    height: 720px;
   }
 
   #hero-section h1 {
     font-size: 2.75rem;
-    padding-top: 400px;
+    padding-top: 300px;
   }
 
-  #hero-section p {
+  #about-content {
+    height: 500px;
+  }
+
+  #about-functional-fitness {
     margin-bottom: 3rem;
+    height: 500px;
   }
 
   hr {
@@ -552,6 +557,10 @@ a:active {
 
   #about {
     margin-top: 5rem;
+  }
+
+  hr {
+    display: none;
   }
 
   /* Services */
