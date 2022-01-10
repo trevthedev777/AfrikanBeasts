@@ -1,108 +1,218 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# AFRIKAN BEASTS
 
-Welcome trevthedev777,
+Link: <a href="https://trevthedev777.github.io/AfrikanBeasts/">Afrikan Beasts</a>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Afrikan Beasts is a local community gym in the West Rand of Johannesburg, South Africa that specialises in Weightlifting and Fitness
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+The wesbite is a basic guide to the gym and its Services avaialble but more so focuses on the visual representation of weightlifting
 
-## Gitpod Reminders
+Users can view all the services and decide if they would like to recieve contact from the gym, they can preview the services provided and view the basic fees that accompany these services
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The site ecourages people to get more involved in person and requires an in-person attendence to fufill the comapny's requirements
 
-`python3 -m http.server`
+The target audience is aimed at anyone looking to improve their quality of life whetehr its strength, fitness, yoga or massage therapy
 
-A blue button should appear to click: _Make Public_,
+<a href="https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImage.png"><img src=".assets/readme_images/AfrikanBeastsMockUpGeneratedImage"></a>
 
-Another blue button should appear to click: _Open Browser_.
+## First Time Visitor Goals
+  
+- To get a brief understanding on the services provided and make a informed decision on joining the gym
+- To be able to easily navigate throughout the site to find content.
+- To view the website and content clearly on any device and screen sizes
+- To learn more about Afrikan Beasts
+- To find different services the gym provides
+- To contact the owner for any further questions
+- To view the address of the premises
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Returning Customer Goals
+- To find more content about weightlifting
+- To check pricing and times of classes
+- To review previeously viewed content
 
-A blue button should appear to click: _Make Public_,
+## Frequent Visitor Goals
+- To communicate with likeminded people
+- To see if there are any new content added
+- To check if there are any new events or services added 
 
-Another blue button should appear to click: _Open Browser_.
+# Design 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The colour pallete is chosen to work with the gyms colour themes, Red and Black(grey), The colour themes was had picked by the owner of the gym and represents the colour of the actual walls and floor of the premises, this is the corporate identity of the business
 
-To log into the Heroku toolbelt CLI:
+## Color Palette
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Color palette was originally generated from the Owner Daniel Katz
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Colours requested : #ff220c, #333333 and #ffffff
 
-------
+These were later adjusted due to accessability and contrast conflicts
 
-## Release History
+Final Colours : #E62107, #333333 and #ffffff
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+## Existing Features
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Navigation Bar 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Fixed on all three pages, allowing user to easily navigate between all pages without using ‘back’ button or reloading the site.  The about section was removed from teh services and contact page because there was no need for 2 nav-men targets returning to the index.html page
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+![Nav bar](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar.png)
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+![Nav bar Two](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Hero Image 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Main image on the home page is designed to be intesive and leade the user to be entrigued but the depth of the image, a grayscaled image was used to match the overall look anf deel surrounding the theme
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### About section
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+This section is created in a way to give the user a quick overview of the gaols of the programme and company, a brief description and hyperlinks to the definitions of true weightlifting and olympic weightlifting by definition as per wikipedia, the logo was inserted in between the two descriptiions of weightlifiting and functional fitness to show that the gym is the core of the programmes
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Photo Banners
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The photograhic banners are a good idea on life inside of the gym and to give an idea on what is going to be the tasks at hand. the focus of this was that the user would be able to see if thet would enjoy the enviroment of the gym and the idea of using four images was to show the simplicity of change, that it might not be too much to discourage the user from comitting and rather making them feel more inquisitive
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Owner Biography
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+This section gives the user some first hand indtroduction to the gym owner in a 'breaking the ice' sort of engagement, the user can get to know Daniel and his gyms primary purpose to make the actal contact of the client and business an easier step going forward
 
-------
+### Video
 
-## FAQ about the uptime script
+No Videos were used in the creation of this site as there are links to the YouTube Channel in the footer.
 
-**Why have you added this script?**
+### Footer 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+Section is visible at the bottom part of the site on each page, this includes social media links and copyright information with a simple #beastmode which is the slogan for the gym
 
-**How will this affect me?**
+### Services Page 
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+This is a simple table which will allow the user to see the membership costs and pricing for other secondary products and services of the gym, the days these classes take place and allows the user to plan their routines to accomodate and see if they have the time to make these commitments
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+### Contact Page 
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+User can enter the contact information to request more information from the gym owner, this is a simple call back form for those who have the patience to wait to hear from the business and it also has the contact details for the gym should they want to take tge inititaive to cntact first
 
-**So….?**
+### 404 Page
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. It is designed to match styles with the rest of the website. It also includes animated gif to make the error page look more appealing and interesting. 
 
-**Can I opt out?**
+![404-page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/404.png)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+## Features left to implement:
 
-**Anything more?**
+### Upcoming Events
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+The gym has not yet the capacity to host its own events but is looking to grow and expand in the next couple of years and will be looking to add a notice board into their website
 
----
+### Membership Area
 
-Happy coding!
+There will be a database where members can manage their memberships firsthand giving them more control, choosing to freeze, cancel or upgrade their training plans
+
+### Whatsapp Icon
+
+Allowing users to contact the gym directly through instant messenger application Whatsapp
+
+## Tools and Technologies
+
+The fav icon was generated from [Favicon.io](https://favicon.io/)
+
+The fonts were taken from [Font.google.com](https://fonts.google.com/)
+
+Multi site mockup genrated on [Techsini.com](https://techsini.com/multi-mockup/index.php)
+
+Site was built on deplyed using [Github](https://github.com/)
+
+The website was built using [Git](https://git-scm.com/) version control to commit and push code on to deductaed github raspitory
+
+[Google Developer Tools](https://developer.chrome.com/docs/devtools/) was used to test responsivness and effectively check what changes necessary in css coding to get desired results.
+
+## Testing
+
+Testing was performed on three different browsers: Chrome, Firefox and Microsoft Edge.
+No noticable errors were found in the creation of this site due to its simplistic nature, there was no Mac abailable during testing so Safari fould not be used to enhance the testing procedure
+
+the website was also tested on Android on a Samsung S20 FE and S8 
+
+### Validator Testing
+
+## HTML
+
+The site passes W3C Validator testing on [W3C Validator](https://validator.w3.org/)
+
+All pages passed with the index.html showing warnings of no headers of h2 - h6 found, otherwise no errors
+
+ 
+## CSS
+
+The site passes all tests on [CSSjigsaw validator](https://jigsaw.w3.org/)
+
+
+## Accessability
+
+Accessability was tested using Lighthouse on Google Developer Tools, passmark 100% achieved on all pages.
+
+
+### Bugs
+
+- Initially had an issue with mobile device responsivness 
+Flexbox was used to sort these issues out and changing widths of original issues
+
+- The CSS was originally located in the assets folder but was moved then caused the site to not load the style sheet, this was fixed when the pathway was redirected to the css folder which has the stylesheet
+
+- The hero image on the home page was too long for smaller devices, and the about text was overlapping, this was changed to fit the hero section in a smaller height
+
+- The services table was too large to fit in the mobile view of the page and was changed when the height of the page was increased
+
+- The contact page could not align well in mobile view, the original flexbox was causing the widths of the input to overflow, the grid system was implemented for ease of the pages structure
+
+- Index owner profile section was too wide for smaller devices, a smaller breakpoint was created to allow content to fit
+
+
+### Unfixed bugs
+
+- The navbar menu is too small on smaller devices and the Afrikan Beasts Text Link to direct to the home page is  hidden from 500px and smaller, this can be fixed with JavaScript or even frameworks like Bootstrap to create a Hamburger Icon so that the logo can remain and the navigations can be hidden
+
+### Deployment
+
+##### Creating the site
+
+The site was created based on [This template](https://github.com/Code-Institute-Org/gitpod-full-template)
+- Click 'Use this template'
+- Change the name
+- Click on 'Create new respository"
+- Once created, click on 'Gitpod'
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- Go to pages and select main branch
+- Click save
+
+The live link can be found here - https://trevthedev777.github.io/AfrikanBeasts/index.html
+
+## Credits
+
+### Pricing Panel
+
+This pricing panel was created using the idea of a bootcamp video displayed by Colt Steele from Udemy called The Web Developer Bootcamp 2022 
+![Web-Developer-Bootcamp-2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21990992?start=15#overview)
+
+### Contact Page and Footer
+
+I originally created this template in 2020 creating a protfolio website 
+![Trevor-Lehmann-portfolio](https://www.trevorlehmann.com)
+
+### Mentor
+
+My Mentor Daisy Mc Girr was the guidance for me through my project, a big shout out to her for all of her help
+
+### Content
+
+All text and decriptions was created by Daniel Katz the owner of Afrikan Beasts 
+
+The hyper-link information in the weightlifting descrption comes from wikipedia
+
+## Media
+
+The photos on all pages were taken from Afrikan Beasts themselves
+

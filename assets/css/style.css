@@ -22,7 +22,7 @@ h6 {
 }
 
 hr {
-  border-top: 2px solid #ff220c;
+  border-top: 2px solid #E62107 ;
   width: 80%;
   margin: 0 auto;
 }
@@ -39,23 +39,23 @@ hr {
 /* Links Each state */
 a:visited {
   text-decoration: none;
-  color: #ff220c;
+  color: #E62107  ;
 }
 
 a:hover {
   text-decoration: none;
-  color: #ff220c;
+  color: #E62107  ;
 }
 
 a:focus {
   text-decoration: none;
-  color: #ff220c;
+  color: #E62107  ;
 }
 
 a:hover,
 a:active {
   text-decoration: none;
-  color: #ff220c;
+  color: #E62107  ;
   border-bottom: 1px solid #fff;
 }
 
@@ -68,7 +68,7 @@ a:active {
   align-items: center;
   text-transform: uppercase;
   background-color: #333;
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid #E62107;
 }
 
 #header>a {
@@ -116,14 +116,14 @@ a:active {
 
   to {
     display: block;
-    color: #ff220c;
+    color: #E62107  ;
     opacity: 1;
   }
 
 }
 
 .active {
-  border-bottom: 1px solid #ff220c;
+  border-bottom: 1px solid #E62107  ;
 }
 
 /* About */
@@ -180,7 +180,7 @@ a:active {
   
   padding: 5rem 1rem 0 1rem;
   margin: 3rem 0 3rem 0;
-  background-color: #ff220c;
+  background-color: #E62107 ;
   color: #fff;
   margin: 3rem 0 3rem 0;
 }
@@ -291,7 +291,7 @@ a:active {
 }
 
 .services {
-  background: url("./images/AF-1.jpg") no-repeat center center;
+  background: url("../images/AF-1.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -357,7 +357,7 @@ a:active {
 }
 
 .bg-red {
-  background-color: #ff220c;
+  background-color: #E62107 ;
   color: #fff;
   padding: 3rem 0;
 }
@@ -375,7 +375,7 @@ a:active {
   background-color: #333;
   width: 100%;
   color: white;
-  border-top: 2px solid #ff220c;
+  border-top: 2px solid #E62107 ;
   padding-top: 1.4rem;
 }
 
