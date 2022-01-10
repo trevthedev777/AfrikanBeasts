@@ -12,7 +12,8 @@ The site ecourages people to get more involved in person and requires an in-pers
 
 The target audience is aimed at anyone looking to improve their quality of life whetehr its strength, fitness, yoga or massage therapy
 
-<a href="https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImage.png"><img src=".assets/readme_images/AfrikanBeastsMockUpGeneratedImage"></a>
+![Mock Up](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImage.png)
+
 
 ## First Time Visitor Goals
   
