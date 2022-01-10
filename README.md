@@ -63,29 +63,29 @@ Fixed on all three pages, allowing user to easily navigate between all pages wit
 
 ### Hero Image 
 
-Main image on the home page is designed to be intesive and leade the user to be entrigued but the depth of the image, a grayscaled image was used to match the overall look anf deel surrounding the theme
+Main image on the home page is designed to be intensive and leade the user to be entrigued but the depth of the image, a grayscaled image was used to match the overall look anf deel surrounding the theme
 
-![Hero Image](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Hero Image](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageHero.png)
 
 ### About section
 
 This section is created in a way to give the user a quick overview of the gaols of the programme and company, a brief description and hyperlinks to the definitions of true weightlifting and olympic weightlifting by definition as per wikipedia, the logo was inserted in between the two descriptiions of weightlifiting and functional fitness to show that the gym is the core of the programmes
 
-![About Section](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![About Section](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageAboutSection.png)
 
 ### Photo Banners
 
 The photograhic banners are a good idea on life inside of the gym and to give an idea on what is going to be the tasks at hand. the focus of this was that the user would be able to see if thet would enjoy the enviroment of the gym and the idea of using four images was to show the simplicity of change, that it might not be too much to discourage the user from comitting and rather making them feel more inquisitive
 
-![Photo Banner 1](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Photo Banner 1](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImagePhotoBannerOne.png)
 
-![Photo Banner 2](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Photo Banner 2](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImagePhotoBannerTwo.png)
 
 ### Owner Biography
 
 This section gives the user some first hand indtroduction to the gym owner in a 'breaking the ice' sort of engagement, the user can get to know Daniel and his gyms primary purpose to make the actal contact of the client and business an easier step going forward
 
-![Owner Biography](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Owner Biography](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageOwnerBiography.png)
 
 ### Video
 
