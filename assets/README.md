@@ -42,79 +42,55 @@ The colour pallete is chosen to work with the gyms colour themes, Red and Black(
 
 Color palette was originally generated from the Owner Daniel Katz
 
-![Original color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/color-palette.png)
+Colours requested : #ff220c, #333333 and #ffffff
 
-![Hex code color palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/color-palette-hex.png)
+These were later adjusted due to accessability and contrast conflicts
 
-However, later on was adjusted slighty to meet the accessability standards.
+Final Colours :
 
-![Actual Color Palette](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/actual-color-palette.png)
 
-The site also has white space around the content that also works well to present the idea of mindfullness. The site is designed to be as simple as possible to ensure user to navigatate easily and intuitively.
 
 ## Existing Features
 
 ### Navigation Bar 
 
-Fixed on all three pages, allowing user to easily navigate between all pages without using ‘back’ button or reloading the site. It includes Mindfulness, Techniques and Community pages. Navigation bar also includes logo on the right side, which when clicked will bring the user back to the Main page.
+Fixed on all three pages, allowing user to easily navigate between all pages without using ‘back’ button or reloading the site.  The about section was removed from teh services and contact page because there was no need for 2 nav-men targets returning to the index.html page
 
-![Nav bar](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/nav-bar.png)
+![Nav bar](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar.png)
+
+![Nav bar Two](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
 
 ### Hero Image 
 
-Main image on the home page is designed to be eye catching and invites user to scroll down the page and explore further content.
+Main image on the home page is designed to be intesive and leade the user to be entrigued but the depth of the image, a grayscaled image was used to match the overall look anf deel surrounding the theme
 
-![Hero Image](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/hero-image.png)
+### About section
 
-### Types section
+This section is created in a way to give the user a quick overview of the gaols of the programme and company, a brief description and hyperlinks to the definitions of true weightlifting and olympic weightlifting by definition as per wikipedia, the logo was inserted in between the two descriptiions of weightlifiting and functional fitness to show that the gym is the core of the programmes
 
-This section is organised in the way to enhance the readers experience exploring the subject. Photos and text work together to explain about the different types of mindfulness.
+### Photo Banners
 
-![Types](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/types.png)
+The photograhic banners are a good idea on life inside of the gym and to give an idea on what is going to be the tasks at hand. the focus of this was that the user would be able to see if thet would enjoy the enviroment of the gym and the idea of using four images was to show the simplicity of change, that it might not be too much to discourage the user from comitting and rather making them feel more inquisitive
 
-### Quote
+### Owner Biography
 
-Quote on mindfulness section summerises what is mindfullness in one sentece, it is designed in the way to fit in with the rest of the content. This helps user to understand the content better, since it is presented in slightly different styles, that attracts the readers attension.
-
-![Quote](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/quote.png)
+This section gives the user some first hand indtroduction to the gym owner in a 'breaking the ice' sort of engagement, the user can get to know Daniel and his gyms primary purpose to make the actal contact of the client and business an easier step going forward
 
 ### Video
 
-Site contains few videos, this helps to explain the content with different media and engage the reader further into the subject. Videos are fully repsonsive and work on all screen sizes.
-
-![Video](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/video.png)
+No Videos were used in the creation of this site as there are links to the YouTube Channel in the footer.
 
 ### Footer 
 
-Section is visible at the bottom part of the site on each page, this includes social media links and copyright information. 
-Social media links opens in a new browser, this allows use to easily navigate back to Mindful Life page.
-Social Media links allows user to connect with community and news of Mindful Life across different platforms, that helps to grow the audience.
+Section is visible at the bottom part of the site on each page, this includes social media links and copyright information with a simple #beastmode which is the slogan for the gym
 
-![Footer](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/footer.png)
+### Services Page 
 
-### Techniques menu bar
+This is a simple table which will allow the user to see the membership costs and pricing for other secondary products and services of the gym, the days these classes take place and allows the user to plan their routines to accomodate and see if they have the time to make these commitments
 
-This techniques menu bar is included as fixed menu within the nav-bar to allow user to easily navigate between sections. The menu bar includes icons to work with text and make the learnign experience more interesting for the user.
+### Contact Page 
 
-![Techniques](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/techniques.png)
-
-### Back to the top ancors on Tenchiques page
-
-Techniques page contains a lot of content, to help the user not to get lost, small ancor points have been added at the end of each section. when clicked this will bring the user back to top of the page from where user can navigate to another section, instead of scrolling though the content.
-
-![Ancor](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/ancor-up.png)
-
-### Events
-
-This section includes upcoming events, each div container includes event name, time and place. It also includes background image for each event that supports the type of the event. This section will encourage users to sign up for the newsletter to receive any upcoming invitations to these events. 
-
-![Events](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/events.png)
-
-### Sign-Up 
-
-User can enter the contact information to sign up for newsletters. This allows user to return to the website, get connected with latest news and events as well as interact with the mindful Life community. 
-
-![Sign-Up](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/sign-up.png)
+User can enter the contact information to request more information from the gym owner, this is a simple call back form for those who have the patience to wait to hear from the business and it also has the contact details for the gym should they want to take tge inititaive to cntact first
 
 ### 404 Page
 
@@ -125,25 +101,23 @@ User can enter the contact information to sign up for newsletters. This allows u
 
 ## Features left to implement:
 
-### Forum 
-For users to crate account and communicate via the website. It would work like social media platform for Mindfulness, that would allow users to post and share media content, this would increase the traffic for the site and grow the community to wider audience. 
+### Upcoming Events
 
-### Freebies 
-The page containing free, downloadable video and audio material. This would include different types of mediation courses, podcast interviews and talk shows, courses and scientific experiments related to Mindfulness and health. 
+The gym has not yet the capacity to host its own events but is looking to grow and expand in the next couple of years and will be looking to add a notice board into their website
+
+### Membership Area
+
+There will be a database where members can manage their memberships firsthand giving them more control, choosing to freeze, cancel or upgrade their training plans
+
+### Whatsapp Icon
+
+Allowing users to contact the gym directly through instant messenger application Whatsapp
 
 ## Tools and Technologies
-
-Color palette was generated from [Colorhunt.co](https://colorhunt.co/palette/93b5c6c9ccd5e4d8dcffe3e3)
-
-Custom color palette was created on [Coolors.co](https://coolors.co/41697c-faabab-e4d8dc-93b5c6-ffe3e3)
 
 The fav icon was generated from [Favicon.io](https://favicon.io/)
 
 The fonts were taken from [Font.google.com](https://fonts.google.com/)
-
-404 Page video was taken and customised on [Canva.com](https://www.canva.com/)
-
-404 Page video was converedt into gif using [Ezgif.com](https://ezgif.com/)
 
 Multi site mockup genrated on [Techsini.com](https://techsini.com/multi-mockup/index.php)
 
@@ -155,11 +129,8 @@ The website was built using [Git](https://git-scm.com/) version control to commi
 
 ## Testing
 
-Testing was performed on three different browsers: Chrome, Firefox and Apple Safari.
-Some errors were found during the process, nothing major and rectified quickly by adding or replacing some attributes. Repeaded testing was performed once changes were made to ensure all tests were passed. 
-Website was also tested on actual mobile device additionally to in depth responsivness testing performed on Google Developer tools. 
-
-![Testing](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/testing.png)
+Testing was performed on three different browsers: Chrome, Firefox and Microsoft Edge.
+No noticable errors were found in the creation of this site due to its simplistic nature, there was no Mac abailable during testing so Safari fould not be used to enhance the testing procedure
 
 ### Validator Testing
 
@@ -203,18 +174,21 @@ Accessability was tested using Lighthouse on Google Developer Tools, passmark 10
 
 ### Bugs
 
-- Initially had an issue with mobile device responsivness - the sizing of the video caused nav bar to strectch. Issue was fixed re-sizing and positioning videos using css styles.
+- Initially had an issue with mobile device responsivness 
+Flexbox was used to sort these issues out and changing widths of original issues
 
-- Background images for events section didn't load on deployed webisite, but were loading on local server. Issue was fixed changing the file path to relative instead of absolute.
+- The CSS was originally located in the assets folder but was moved then caused the site to not load the style sheet, this was fixed when the pathway was redirected to the css folder which has the stylesheet
 
-- Some parts of top page content were hidden behing the nav bar, iniitially issue was fixed using margin-top property, however better solution was found later on - the diplay property for the nav-bar was changed from 'fixed' to 'sticky',that solved the issue.
+- The hero image on the home page was too long for smaller devices, and the about text was overlapping, this was changed to fit the hero section in a smaller height
 
-- Techniques page section menu was not 'stuck'to the top of the page. A lot of CSS properties were tested and content changed for techniques page. The issue was easily fixed by moving the menu into header section and adding a few style properties, that achieved the desired outcome. 
+- The services table was too large to fit in the mobile view of the page and was changed when the height of the page was increased
+
+- The contact page could not align well in mobile view, the original flexbox was causing the widths of the input to overflow, the grid system was implemented for ease of the pages structure
 
 
 ### Unfixed bugs
 
-- The section menu can't be styled on mobile devices as it takes too much space. For that reaon this menu is currently hidden on mobile devices. In the future this could be fixed adding burger menu using Javascript.
+- The navbar menu is too small on smaller devices and the Afrikan Beasts Text Link to direct to the home page is  hidden from 500px and smaller
 
 ### Deployment
 
@@ -231,23 +205,19 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - Go to pages and select main branch
 - Click save
 
-The live link can be found here - https://lauraz-15.github.io/mindful-life/
+The live link can be found here - https://trevthedev777.github.io/AfrikanBeasts/index.html
 
 ## Credits
 
-Thank you so much my mentor [Daisy Mc Girr](https://github.com/Daisy-McG) for all the guidance throughout this project.
+My Mentor Daisy Mc Girr was the guidance for me through my project, a big shout out to her for all of her help
 
 ### Content
 
-The text for the Mindfulness page is taken from [Mindful.org](https://www.mindful.org/what-is-mindfulness/)
+All text and decriptions was created by Daniel Katz the owner of Afrikan Beasts 
 
-The text for Techniques page is taken from [Intelligentchange.com](https://www.intelligentchange.com),[Nersworld.com](nersworld.com/training/a22160937/mindfulness-in-running/) and [Healthline.com](https://www.healthline.com/nutrition/mindful-eating-guide)
-
-
-The icons on techniques page and the footer were taken from [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+The hyper-link information in the weightlifting descrption comes from wikipedia
 
 ## Media
 
-The photos on all pages were taken from [Pixabay.com](https://pixabay.com/)
+The photos on all pages were taken from Afrikan Beasts themselves
 
-The videos on mindfulness page and techniques page were taken from [Youtube.com](https://www.youtube.com/)
