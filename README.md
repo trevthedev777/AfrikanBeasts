@@ -106,7 +106,7 @@ commitments
 
 ### Contact Page 
 
-User can enter the contact information to request more information from the gym owner, this is a simple call back form for those who have the patience to wait to hear from the business and it also has the contact details for the gym should they want to take tge inititaive to cntact first
+User can enter the contact information to request more information from the gym owner, this is a simple call back form for those who have the patience to wait to hear from the business and it also has the contact details for the gym should they want to take the initiative to contact first
 
 ![Contact Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageContactPage.png)
 
