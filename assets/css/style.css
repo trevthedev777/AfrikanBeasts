@@ -612,6 +612,15 @@ a:active {
   }
 }
 
+/* 404 page */
+
+#error {
+  background-color: #333;
+  color: #E62107;
+}
+
+
+
 
 
  

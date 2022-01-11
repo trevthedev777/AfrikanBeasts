@@ -95,26 +95,26 @@ No Videos were used in the creation of this site as there are links to the YouTu
 
 Section is visible at the bottom part of the site on each page, this includes social media links and copyright information with a simple #beastmode which is the slogan for the gym
 
-![Footer](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Footer](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageFooter.png)
 
 ### Services Page 
 
 This is a simple table which will allow the user to see the membership costs and pricing for other secondary products and services of the gym, the days these classes take place and allows the user to plan their routines to accomodate and see if they have the time to make these 
 commitments
 
-![Services Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Services Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageServicesPage.png)
 
 ### Contact Page 
 
 User can enter the contact information to request more information from the gym owner, this is a simple call back form for those who have the patience to wait to hear from the business and it also has the contact details for the gym should they want to take tge inititaive to cntact first
 
-![Contact Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageNavBar2.png)
+![Contact Page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImageContactPage.png)
 
 ### 404 Page
 
-404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. It is designed to match styles with the rest of the website. It also includes animated gif to make the error page look more appealing and interesting. 
+404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. 
 
-![404-page](https://github.com/lauraz-15/mindful-life/blob/main/assets/readme_images/404.png)
+![404-page]()
 
 
 ## Features left to implement:
@@ -158,7 +158,7 @@ the website was also tested on Android on a Samsung S20 FE and S8
 
 The site passes W3C Validator testing on [W3C Validator](https://validator.w3.org/)
 
-All pages passed with the index.html showing warnings of no headers of h2 - h6 found, otherwise no errors
+All pages passed with no errors
 
  
 ## CSS
@@ -186,6 +186,7 @@ Flexbox was used to sort these issues out and changing widths of original issues
 
 - Index owner profile section was too wide for smaller devices, a smaller breakpoint was created to allow content to fit
 
+- There were no Aria labels on the form inputs, they were inserted before the final push
 
 ### Unfixed bugs
 
