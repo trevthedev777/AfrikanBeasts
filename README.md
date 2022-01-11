@@ -112,9 +112,9 @@ User can enter the contact information to request more information from the gym 
 
 ### 404 Page
 
-404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser. 
+404 page has been implemented to ensure that user get directed to the correct link, in case the incorrect address is entered into the browser., 404's are usually created well, this is a basic redirectory with a big image link to take you where you need to be, because getting fit is a big change in someones life, the idea was to resemble that 
 
-![404-page]()
+![404-page](https://github.com/trevthedev777/AfrikanBeasts/blob/main/assets/readme_images/AfrikanBeastsMockUpGeneratedImage404.png)
 
 
 ## Features left to implement:
